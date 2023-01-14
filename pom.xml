@@ -11,6 +11,7 @@
 	<groupId>com.masai.app</groupId>
 	<artifactId>JenkinsProblem2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>JenkinsProblem2</name>
 	<description>Assignment project for Jenkins</description>
 	<properties>
